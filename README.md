@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [SCADA\IIoT No-code platform SmartICS for Industrial Automation and Smart Buildings](https://smartics.io/)<br><br>- 🌱 I’m currently learning **TypeScript, React, .NET**<br><br>- 📫 How to reach me **olvitmor@gmail.com**<br><br>- ⚡ Fun fact **I really obsessed with kapibara memes**
+- 🌱 I’m currently learning **TypeScript, React, .NET**<br><br>- 📫 How to reach me **olvitmor@gmail.com**<br><br>- ⚡ Fun fact **I really obsessed with kapibara memes**
 
 
 ## 🌐 Socials:
